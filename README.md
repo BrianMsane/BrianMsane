@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LLM Development and things like RAG, Agents, GraphRAG, and building applications
 - 💞️ I’m looking to collaborate on anything AI
 - 📫 How to reach me msanebrianboss@gmail.com
-- 😄 Pronouns: ---
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: In case of fire: git commit -m "backing up :)" git push leave the building
 
 Achievements
