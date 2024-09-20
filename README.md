@@ -2,6 +2,7 @@
 
 <li> 👀 I’m interested in AI, Data Science, and Machine Learning
 <li> 🌱 I’m currently learning LLM Development and things like RAG, Agents, GraphRAG, and building applications
+<li> 🌱 I’m currently learning Project Management, System Analysis, and Agile Methodologies
 <li> 💞️ I’m looking to collaborate on anything AI
 <li> 📫 How to reach me msanebrianboss@gmail.com
 <li> 😄 Pronouns: he/him
