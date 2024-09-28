@@ -7,7 +7,7 @@
 <li> 📫 How to reach me msanebrianboss@gmail.com
 <li> 😄 Pronouns: he/him
 <li> ⚡ Fun fact: In case of fire: git commit -m "backing up :)" git push leave the building
-
+<li> ⚡ Fun fact: When you have free time, improve the contribution graph!
   
 <h2>Achievements</h2>
 <li> ✨ 3rd Place winner for IndabaX Eswatini Hackathon 2023
