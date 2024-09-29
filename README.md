@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m @BrianMsane </h1>
 
-<li> 👀 I’m interested in AI, Data Science, and Machine Learning
+<li> 👀 I’m interested in AI, Data Science, Data Engineering, and Machine/Deep Learning
 <li> 🌱 I’m currently learning LLM Development and things like RAG, Agents, GraphRAG, and building applications
 <li> 🌱 I’m currently learning Project Management, System Analysis, and Agile Methodologies
 <li> 💞️ I’m looking to collaborate on anything AI
