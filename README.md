@@ -13,6 +13,7 @@
 <li> ✨ 3rd Place winner for IndabaX Eswatini Hackathon 2023
 <li> ✨ IJCAI 2023 Attendent
 <li> ✨ <a href=''>CapeKR</a> 2024 Attendent
+<li> ✨ <a href=''>2024 Cyber 9/12 Attendent</a> 2024 Attendent
 <!---
 BrianMsane/BrianMsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
