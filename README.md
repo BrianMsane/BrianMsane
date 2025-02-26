@@ -6,7 +6,10 @@
 <li> 💞️ I’m looking to collaborate on anything AI, Data Science, and Machine Learning
 <li> 📫 How to reach me msanebrianboss@gmail.com
 <li> 😄 Pronouns: he/him
-<li> ⚡ Fun fact: In case of fire: git commit -m "backing up :)" git push leave the building
+<li> ⚡ Fun fact: In case of fire: <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    $ git commit -m "backing up" <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    $ git push <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    leave the building as soon as pushing finishes<br>
   
 <h2>Achievements</h2>
 <li> ✨ 2nd Place winner for IndabaX Eswatini Hackathon 2024
